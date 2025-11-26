@@ -23,7 +23,7 @@ Clean two-screen flow using prepare(for:segue:)
 
 ---
 
-🖥️ App Screens (Replace with your actual images)
+🖥️ App Screens 
 Home Screen	Result Screen
 
 ---
@@ -43,6 +43,7 @@ FitnessTrackerApp
 ---
 
 🧮 How the App Works
+
 1️⃣ User Enters:
 
 Activity Type
@@ -52,8 +53,6 @@ Duration (minutes)
 Calories per Minute
 
 The Calculate button becomes active only when all fields contain valid data.
-
----
 
 2️⃣ Calculation Formula
 totalCaloriesBurned = duration × caloriesPerMinute
