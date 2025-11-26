@@ -3,6 +3,8 @@
 A simple and interactive iOS application that calculates the calories burned based on user activity.
 Built using Swift, UIKit, and Storyboard Navigation.
 
+---
+
 🚀 Features
 
 Input Activity Type, Duration, and Calories per Minute
@@ -19,12 +21,12 @@ Resets text fields when returning to the home screen
 
 Clean two-screen flow using prepare(for:segue:)
 
+---
+
 🖥️ App Screens (Replace with your actual images)
 Home Screen	Result Screen
 
-	
-
-Make sure to add your screenshots to the repository and update the image names if needed.
+---
 
 📂 Project Structure
 FitnessTrackerApp
@@ -38,6 +40,8 @@ FitnessTrackerApp
 │   └── default.png
 └── Main.storyboard              # UI layout
 
+---
+
 🧮 How the App Works
 1️⃣ User Enters:
 
@@ -48,6 +52,8 @@ Duration (minutes)
 Calories per Minute
 
 The Calculate button becomes active only when all fields contain valid data.
+
+---
 
 2️⃣ Calculation Formula
 totalCaloriesBurned = duration × caloriesPerMinute
@@ -60,6 +66,8 @@ override func prepare(for segue: UIStoryboardSegue, sender: Any?)
 
 4️⃣ Result Screen
 
+---
+
 Displays:
 
 Activity Type
@@ -69,6 +77,8 @@ Duration
 Calories per Minute
 
 Total Calories Burned
+
+---
 
 Plus:
 🎨 An image that matches the activity
@@ -98,6 +108,8 @@ destination.duration = duration
 destination.caloriesPerMinute = caloriesPerMinute
 destination.totalCaloriesBurned = totalCaloriesBurned
 
+---
+
 🛠️ Requirements
 
 Xcode 15+
@@ -108,6 +120,8 @@ Swift 5+
 
 UIKit + Storyboard
 
+---
+
 📦 How to Run the App
 
 Clone the repository
@@ -117,6 +131,8 @@ Open FitnessTrackerApp.xcodeproj in Xcode
 Run on Simulator or a physical device
 
 Enter details → Tap Calculate → View calories burned
+
+---
 
 👨‍💻 Author
 
