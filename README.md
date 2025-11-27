@@ -23,9 +23,11 @@ Clean two-screen flow using prepare(for:segue:)
 
 ---
 
-🖥️ App Screens 
-Home Screen	Result Screen
+## 📱 App Preview
 
+| Home Screen | Running | Cycling | Swimming |
+|-------------|---------|---------|----------|
+| ![Home Screen](https://github.com/BhaveshGoswami11/iOS_Fitness-Tracker-App/blob/main/SneakPeek%20Of%20App/Home%20Screen.png?raw=true) | ![Running](https://github.com/BhaveshGoswami11/iOS_Fitness-Tracker-App/blob/main/SneakPeek%20Of%20App/RUNNING.png?raw=true) | ![Cycling](https://github.com/BhaveshGoswami11/iOS_Fitness-Tracker-App/blob/main/SneakPeek%20Of%20App/CYCLING.png?raw=true) | ![Swimming](https://github.com/BhaveshGoswami11/iOS_Fitness-Tracker-App/blob/main/SneakPeek%20Of%20App/Swimming.png?raw=true) |
 ---
 
 📂 Project Structure
